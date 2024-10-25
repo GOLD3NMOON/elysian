@@ -1,6 +1,6 @@
 # Elysian - Discord Application
 
-[Elysian banner](https://i.imgur.com/oT5YfKP.jpg)
+![Elysian banner](https://i.imgur.com/oT5YfKP.jpg)
 
 ## 📜 Sobre
 
